@@ -2,7 +2,7 @@
 
 ## Challenges - 468 Pts(Init: 500 Pts) - 5 Solved
 
-__Solved by S0083 - HK Juvenile Care Centre Chan Nam Cheong Memorial School / Cheung Yat hei__
+__Solved by S0083 - [RedTeaDev](https://github.com/RedTeaDev) __
 ```
 
 
