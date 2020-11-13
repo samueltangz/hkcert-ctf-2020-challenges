@@ -2,7 +2,7 @@
 
 ## Challenges - 50 Pts(Init: 500 Pts) - 20 Solved
 
-__Solved by S0083 - [RedTeaDev](https://github.com/RedTeaDev) __
+__Solved by S0083 - [RedTeaDev](https://github.com/RedTeaDev)__
 
 ```
 Author 作者：blackb6a
