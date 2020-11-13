@@ -1,4 +1,4 @@
-# Hong Kong Cyber Security New Generation Capture the Flag Challenge 2020
+# HKCERT CTF 2020
 
 ## Folder structure
 
@@ -13,15 +13,16 @@
   │   └── image2/
   │       ├── Dockerfile
   │       └── ...
-  ├── src/                    whatever files that is used as auxiliary to the challenge, in whatever use.
-  │                           this includes but not limited to the source code for the binary, the solution
-  │                           script (or writeup) that is considered to solve the challenge
+  ├── src/                    whatever files that is used as auxiliary to the challenge, in whatever
+  │                           use. this includes but not limited to the source code for the binary,
+  │                           the solution script (or writeup) that is considered to solve the
+  │                           challenge.
   ├── writeups/
   │   ├── team1/
-  │   │   └── README.md       the writeup and any auxiliary script that you used to solve a challenge - one
-  │   └── team2/              folder per team.
+  │   │   └── README.md       the writeup and any auxiliary script that you used to solve a
+  │   └── team2/              challenge - one folder per team.
   │       ├── README.md
   │       └── solve.py
-  └── README.md               the README file that contains a brief summary (title, description, category,
-                              author and flag) of the challenge
+  └── README.md               the README file that contains a brief summary (title, description,
+                              category, author and flag) of the challenge
 ```
