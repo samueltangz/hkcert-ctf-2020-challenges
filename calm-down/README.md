@@ -1,6 +1,10 @@
 Calm Down
 ===
 
+## Author
+
+[Mystiz](https://github.com/samueltangz/) @ Black Bauhinia
+
 ## Category
 
 Crypto
