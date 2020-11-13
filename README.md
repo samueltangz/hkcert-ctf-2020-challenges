@@ -20,8 +20,8 @@
   ├── writeups/
   │   ├── team1/
   │   │   └── README.md       the writeup and any auxiliary script that you used to solve a
-  │   └── team2/              challenge - one folder per team.
-  │       ├── README.md
+  │   └── team2/              challenge - one folder per team (feel free to include the link to your
+  │       ├── README.md       writeup, too).
   │       └── solve.py
   └── README.md               the README file that contains a brief summary (title, description,
                               category, author and flag) of the challenge
