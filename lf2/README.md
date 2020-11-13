@@ -1,6 +1,10 @@
 LF2
 ===
 
+## Author
+
+[Mystiz](https://github.com/samueltangz/) @ Black Bauhinia
+
 ## Category
 
 Reverse Engineering

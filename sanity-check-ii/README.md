@@ -1,6 +1,10 @@
 Sanity Check
 ===
 
+## Author
+
+[Mystiz](https://github.com/samueltangz/) @ Black Bauhinia
+
 ## Category
 
 Web
