@@ -1,4 +1,4 @@
-# Write-up
+# RAM
 
 ## Prologue 
 
@@ -101,6 +101,7 @@ Base on the description, subsitite the words into flag format.
 
 Solve: 6/81 (Tertiary)
 This is an easy chal and I was expecting for more solves. The main reason is there are already too much tutorial for Windows password discovery from memory level.
+I was giving too much hints as people ask for Chinese translation for the description.
 
 ## Reference
 <https://aio-forensics.com/recover-windows-passwords-Forensics>
