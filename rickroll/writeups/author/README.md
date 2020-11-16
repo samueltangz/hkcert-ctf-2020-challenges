@@ -2,7 +2,7 @@
 
 ## Prologue 
 
-Hint is useless if you are stuck in the middle. Pray for you if you pay for it with 10 score.
+Hint is useless if you are stuck in the middle. I'm sorry that if you pay for it with 10 points.
 
 ## Walk-through
 
